@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f9f909e-b6a1-49c7-8d0b-f153eb6b5afa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/section1/ArrayListEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section1/ExceptionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section1/ThrowExceptionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section1/IteratorEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section1/LinkedListEx.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +55,7 @@
       <recent name="section1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArrayListEx">
+  <component name="RunManager" selected="Application.IteratorEx">
     <configuration name="ArrayListEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="section1.ArrayListEx" />
       <module name="study" />
@@ -83,8 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RuntimeExceptionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section1.RuntimeExceptionTest" />
+    <configuration name="IteratorEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section1.IteratorEx" />
       <module name="study" />
       <extension name="coverage">
         <pattern>
@@ -96,8 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RuntimeExceptionTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section1.RuntimeExceptionTest2" />
+    <configuration name="LinkedListEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section1.LinkedListEx" />
       <module name="study" />
       <extension name="coverage">
         <pattern>
@@ -124,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IteratorEx" />
+        <item itemvalue="Application.LinkedListEx" />
         <item itemvalue="Application.ArrayListEx" />
         <item itemvalue="Application.ExceptionTest" />
         <item itemvalue="Application.ThrowExceptionTest" />
-        <item itemvalue="Application.RuntimeExceptionTest2" />
-        <item itemvalue="Application.RuntimeExceptionTest" />
       </list>
     </recent_temporary>
   </component>
@@ -141,7 +140,7 @@
       <option name="presentableId" value="Default" />
       <updated>1668041767116</updated>
       <workItem from="1668041768240" duration="2990000" />
-      <workItem from="1668050967045" duration="3359000" />
+      <workItem from="1668050967045" duration="4798000" />
     </task>
     <servers />
   </component>
