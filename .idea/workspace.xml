@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f9f909e-b6a1-49c7-8d0b-f153eb6b5afa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/HashTableEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section1/HashMapEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section1/getNthElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section1/makeArrayListEx.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,22 +55,9 @@
       <recent name="section1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HashTableEx">
+  <component name="RunManager" selected="Application.getNthElement">
     <configuration name="HashMapEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="section1.HashMapEx" />
-      <module name="study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="section1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HashSetEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section1.HashSetEx" />
       <module name="study" />
       <extension name="coverage">
         <pattern>
@@ -89,19 +76,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IteratorEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section1.IteratorEx" />
-      <module name="study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="section1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TreeSetEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="section1.TreeSetEx" />
       <module name="study" />
@@ -115,13 +89,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="getNthElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section1.getNthElement" />
+      <module name="study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="section1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="makeArrayListEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section1.makeArrayListEx" />
+      <module name="study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="section1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.getNthElement" />
+        <item itemvalue="Application.makeArrayListEx" />
         <item itemvalue="Application.HashTableEx" />
         <item itemvalue="Application.HashMapEx" />
         <item itemvalue="Application.TreeSetEx" />
-        <item itemvalue="Application.HashSetEx" />
-        <item itemvalue="Application.IteratorEx" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +134,7 @@
       <option name="presentableId" value="Default" />
       <updated>1668041767116</updated>
       <workItem from="1668041768240" duration="2990000" />
-      <workItem from="1668050967045" duration="7167000" />
+      <workItem from="1668050967045" duration="8498000" />
     </task>
     <servers />
   </component>
