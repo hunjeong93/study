@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f9f909e-b6a1-49c7-8d0b-f153eb6b5afa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/section1/IteratorEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section1/LinkedListEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section1/HashSetEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section1/TreeSetEx.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +55,7 @@
       <recent name="section1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.IteratorEx">
+  <component name="RunManager" selected="Application.TreeSetEx">
     <configuration name="ArrayListEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="section1.ArrayListEx" />
       <module name="study" />
@@ -69,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExceptionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section1.ExceptionTest" />
+    <configuration name="HashSetEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section1.HashSetEx" />
       <module name="study" />
       <extension name="coverage">
         <pattern>
@@ -108,8 +108,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThrowExceptionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section1.ThrowExceptionTest" />
+    <configuration name="TreeSetEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section1.TreeSetEx" />
       <module name="study" />
       <extension name="coverage">
         <pattern>
@@ -123,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TreeSetEx" />
+        <item itemvalue="Application.HashSetEx" />
         <item itemvalue="Application.IteratorEx" />
         <item itemvalue="Application.LinkedListEx" />
         <item itemvalue="Application.ArrayListEx" />
-        <item itemvalue="Application.ExceptionTest" />
-        <item itemvalue="Application.ThrowExceptionTest" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +140,7 @@
       <option name="presentableId" value="Default" />
       <updated>1668041767116</updated>
       <workItem from="1668041768240" duration="2990000" />
-      <workItem from="1668050967045" duration="4798000" />
+      <workItem from="1668050967045" duration="5673000" />
     </task>
     <servers />
   </component>
