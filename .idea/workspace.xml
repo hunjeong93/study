@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f9f909e-b6a1-49c7-8d0b-f153eb6b5afa" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section1/ErrorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section1/RuntimeErrorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/study/section1/Box.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/study/section1/Box.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/study/section1/GenericEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/study/section1/GenericEx.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/study/section1/Toy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/study/section1/Toy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/study/section1/miniCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/study/section1/miniCar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/study/section1/superCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/study/section1/superCar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/section1/GenericEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section1/GenericEx.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +30,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2HKlg5s92Xmb75AN4X68mY16Miz" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -42,13 +42,32 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/HunJeong/IdeaProjects/study",
     "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)"
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.GenericEx">
+  <component name="RunManager" selected="Application.RuntimeErrorTest">
     <configuration name="EnumTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="section1.EnumTest" />
+      <module name="study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="section1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ErrorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section1.ErrorTest" />
       <module name="study" />
       <extension name="coverage">
         <pattern>
@@ -80,8 +99,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RuntimeErrorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section1.RuntimeErrorTest" />
+      <module name="study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="section1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RuntimeErrorTest" />
+        <item itemvalue="Application.ErrorTest" />
         <item itemvalue="Application.GenericEx" />
         <item itemvalue="Application.EnumTest" />
         <item itemvalue="Application.Main" />
@@ -97,6 +131,7 @@
       <option name="presentableId" value="Default" />
       <updated>1668041767116</updated>
       <workItem from="1668041768240" duration="2990000" />
+      <workItem from="1668050967045" duration="1131000" />
     </task>
     <servers />
   </component>
