@@ -1,3 +1,4 @@
+package section1;
 
 
 enum Height {
@@ -5,9 +6,20 @@ enum Height {
 }
 
 
-public class Main {
+
+public class EnumTest {
     public static void main(String[] args) {
         Height height = Height.MIDDLE;
+
+        Height[] allHeight = Height.values();
+        for (Height x : allHeight) {
+            System.out.printf("%s=%d%n", x.name(), x.ordinal());
+
+        }
+
+        Height findHeight = Height.valueOf("BOTTOM");
+        System.out.println(findHeight);
+        System.out.println(Height.BOTTOM == Height.valueOf("BOTTOM"));
 
         switch (height) {
             case BOTTOM:
@@ -19,8 +31,6 @@ public class Main {
             case TOP:
                 System.out.println("뚜껑");
                 break;
-
         }
     }
-
 }
