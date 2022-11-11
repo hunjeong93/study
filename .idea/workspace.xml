@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f9f909e-b6a1-49c7-8d0b-f153eb6b5afa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/section1/getNthElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section1/makeArrayListEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/koplit/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,28 +33,28 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/HunJeong/IdeaProjects/study",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/HunJeong/IdeaProjects/study&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="section1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.getNthElement">
+  <component name="RunManager" selected="Application.Solution">
     <configuration name="HashMapEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="section1.HashMapEx" />
       <module name="study" />
@@ -76,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreeSetEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section1.TreeSetEx" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="koplit.Solution" />
       <module name="study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="section1.*" />
+          <option name="PATTERN" value="koplit.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.getNthElement" />
         <item itemvalue="Application.makeArrayListEx" />
         <item itemvalue="Application.HashTableEx" />
         <item itemvalue="Application.HashMapEx" />
-        <item itemvalue="Application.TreeSetEx" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +133,8 @@
       <option name="presentableId" value="Default" />
       <updated>1668041767116</updated>
       <workItem from="1668041768240" duration="2990000" />
-      <workItem from="1668050967045" duration="8498000" />
+      <workItem from="1668050967045" duration="9301000" />
+      <workItem from="1668124530969" duration="14212000" />
     </task>
     <servers />
   </component>
