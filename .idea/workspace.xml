@@ -5,20 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f9f909e-b6a1-49c7-8d0b-f153eb6b5afa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/section1/AggregateExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section1/CollectExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section1/ComparatorExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section1/DeclarativeProgramingExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section1/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section1/FilteringExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section1/MatchesExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section1/OptionalExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section1/ReduceExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section1/StreamLambdaExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section1/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section1/Student2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codestates.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codestates2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/koplit/StramSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section1/FileClassExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section1/FileExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section1/FileInputStreamExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section1/FileOutputStreamExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section1/FileReaderExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section1/FileWriterExam.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/section1/FunctionalInterfaceExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section1/FunctionalInterfaceExam.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,30 +42,31 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/HunJeong/IdeaProjects/study&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/HunJeong/IdeaProjects/study",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="section1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.OptionalExam">
-    <configuration name="AggregateExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section1.AggregateExam" />
+  <component name="RunManager" selected="Application.StramSolution">
+    <configuration name="FileClassExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section1.FileClassExam" />
       <module name="study" />
       <extension name="coverage">
         <pattern>
@@ -81,8 +78,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CollectExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section1.CollectExam" />
+    <configuration name="FileExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section1.FileExam" />
       <module name="study" />
       <extension name="coverage">
         <pattern>
@@ -94,8 +91,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MatchesExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section1.MatchesExam" />
+    <configuration name="FileReaderExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section1.FileReaderExam" />
       <module name="study" />
       <extension name="coverage">
         <pattern>
@@ -107,8 +104,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OptionalExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section1.OptionalExam" />
+    <configuration name="FileWriterExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section1.FileWriterExam" />
       <module name="study" />
       <extension name="coverage">
         <pattern>
@@ -120,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReduceExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section1.ReduceExam" />
+    <configuration name="StramSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="koplit.StramSolution" />
       <module name="study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="section1.*" />
+          <option name="PATTERN" value="koplit.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.OptionalExam" />
-        <item itemvalue="Application.CollectExam" />
-        <item itemvalue="Application.ReduceExam" />
-        <item itemvalue="Application.AggregateExam" />
-        <item itemvalue="Application.MatchesExam" />
+        <item itemvalue="Application.StramSolution" />
+        <item itemvalue="Application.FileClassExam" />
+        <item itemvalue="Application.FileExam" />
+        <item itemvalue="Application.FileWriterExam" />
+        <item itemvalue="Application.FileReaderExam" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +151,7 @@
       <workItem from="1668041768240" duration="2990000" />
       <workItem from="1668050967045" duration="9301000" />
       <workItem from="1668124530969" duration="14287000" />
-      <workItem from="1668390813916" duration="9837000" />
+      <workItem from="1668390813916" duration="15315000" />
     </task>
     <servers />
   </component>
@@ -171,5 +168,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
