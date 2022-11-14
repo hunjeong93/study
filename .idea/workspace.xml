@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f9f909e-b6a1-49c7-8d0b-f153eb6b5afa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/codestates.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codestates2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/koplit/StramSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section1/FileClassExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section1/FileExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section1/FileInputStreamExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section1/FileOutputStreamExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section1/FileReaderExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section1/FileWriterExam.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/koplit/StramSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/koplit/StramSolution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,7 +143,7 @@
       <workItem from="1668041768240" duration="2990000" />
       <workItem from="1668050967045" duration="9301000" />
       <workItem from="1668124530969" duration="14287000" />
-      <workItem from="1668390813916" duration="15315000" />
+      <workItem from="1668390813916" duration="23283000" />
     </task>
     <servers />
   </component>
