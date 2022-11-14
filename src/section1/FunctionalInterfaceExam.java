@@ -13,10 +13,12 @@ public class FunctionalInterfaceExam {
         exam= (x) -> System.out.println(x * 4);
         exam.accept(3);
 
-//        exam = (x, y) -> {
+
+//        FuncitonalInter2 exam2;
+//        exam2 = (x, y) -> {
 //            int result = x + y;
 //            return result;
-//        }; 아직 잘 모르겠음. 사용법 확인할 것
+//        };
 
 
     }
@@ -26,9 +28,13 @@ public class FunctionalInterfaceExam {
     @FunctionalInterface
     public interface FunctionalInter{
         public void accept(int x);
-//        public static int sum(int x, int y){
-//            return x + y ;
-//        }
 
+
+
+    }
+    public interface FuncitonalInter2{
+        public static int sum(int x, int y){
+            return x + y ;
+        }
     }
 }
