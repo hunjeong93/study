@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f9f909e-b6a1-49c7-8d0b-f153eb6b5afa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/stream/BufferedReaderExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream/BufferedReaderExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream/FileInputStreamExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream/FileOutputStreamExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream/FileWriterExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream/Sample01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream/Sample02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream/SystemInExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream/SystemOutExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmers/fakeWear.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stream/Sample01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stream/Sample01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +47,7 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
@@ -64,13 +58,13 @@
       <recent name="section1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BufferedReaderExample2">
-    <configuration name="BufferedReaderExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stream.BufferedReaderExample" />
+  <component name="RunManager" selected="Application.fakeWear">
+    <configuration name="ReadVertically" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dailyCoding.ReadVertically" />
       <module name="study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stream.*" />
+          <option name="PATTERN" value="dailyCoding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BufferedReaderExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stream.BufferedReaderExample2" />
+    <configuration name="RecipePermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dailyCoding.algorithm.RecipePermutation" />
       <module name="study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stream.*" />
+          <option name="PATTERN" value="dailyCoding.algorithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileInputStreamExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stream.FileInputStreamExample" />
+    <configuration name="RemoveExtreams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dailyCoding.RemoveExtreams" />
       <module name="study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stream.*" />
+          <option name="PATTERN" value="dailyCoding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileOutputStreamExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stream.FileOutputStreamExample" />
+    <configuration name="ReverseArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dailyCoding.ReverseArr" />
       <module name="study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stream.*" />
+          <option name="PATTERN" value="dailyCoding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileWriterExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stream.FileWriterExample" />
+    <configuration name="fakeWear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmers.fakeWear" />
       <module name="study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stream.*" />
+          <option name="PATTERN" value="programmers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BufferedReaderExample2" />
-        <item itemvalue="Application.BufferedReaderExample" />
-        <item itemvalue="Application.FileWriterExample" />
-        <item itemvalue="Application.FileOutputStreamExample" />
-        <item itemvalue="Application.FileInputStreamExample" />
+        <item itemvalue="Application.fakeWear" />
+        <item itemvalue="Application.ReadVertically" />
+        <item itemvalue="Application.ReverseArr" />
+        <item itemvalue="Application.RemoveExtreams" />
+        <item itemvalue="Application.RecipePermutation" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +155,11 @@
       <workItem from="1669074678930" duration="15362000" />
       <workItem from="1669160860632" duration="16481000" />
       <workItem from="1669241943382" duration="12523000" />
-      <workItem from="1669334976689" duration="18425000" />
+      <workItem from="1669334976689" duration="22247000" />
+      <workItem from="1669528576927" duration="748000" />
+      <workItem from="1669594096451" duration="7343000" />
+      <workItem from="1669680714058" duration="3308000" />
+      <workItem from="1669766082076" duration="11155000" />
     </task>
     <servers />
   </component>
